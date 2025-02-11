@@ -1,0 +1,182 @@
+[
+    {
+      "id": 1,
+      "expenseType": 1,
+      "date": "2024-09-01",
+      "amount": 1000.00,
+      "category": "Salary",
+      "account": "Bank account",
+      "note": "August Salary"
+    },
+  {
+    "id": 2,
+    "expenseType": 0,
+    "date": "2024-09-01",
+    "amount": 200.50,
+    "category": "Groceries",
+    "account": "Cash",
+    "note": "Bought vegetables"
+  },
+  {
+    "id": 3,
+    "expenseType": 0,
+    "date": "2024-09-01",
+    "amount": 150.00,
+    "category": "Utilities",
+    "account": "Credit card",
+    "note": "Paid electricity bill"
+  },
+  {
+    "id": 4,
+    "expenseType": 1,
+    "date": "2024-09-05",
+    "amount": 500.00,
+    "category": "Freelance",
+    "account": "Bank account",
+    "note": "Payment for website project"
+  },
+  {
+    "id": 5,
+    "expenseType": 0,
+    "date": "2024-09-06",
+    "amount": 50.00,
+    "category": "Transportation",
+    "account": "Cash",
+    "note": "Bus fare"
+  },
+  {
+    "id": 6,
+    "expenseType": 0,
+    "date": "2024-09-07",
+    "amount": 75.25,
+    "category": "Entertainment",
+    "account": "Credit card",
+    "note": "Movie tickets"
+  },
+  {
+    "id": 7,
+    "expenseType": 1,
+    "date": "2024-09-08",
+    "amount": 200.00,
+    "category": "Gift",
+    "account": "Cash",
+    "note": "Gift from a friend"
+  },
+  {
+    "id": 8,
+    "expenseType": 0,
+    "date": "2024-09-10",
+    "amount": 120.00,
+    "category": "Dining",
+    "account": "Debit card",
+    "note": "Dinner at a restaurant"
+  },
+  {
+    "id": 9,
+    "expenseType": 1,
+    "date": "2024-09-12",
+    "amount": 400.00,
+    "category": "Freelance",
+    "account": "Bank account",
+    "note": "Payment for mobile app project"
+  },
+  {
+    "id": 10,
+    "expenseType": 0,
+    "date": "2024-09-14",
+    "amount": 90.00,
+    "category": "Groceries",
+    "account": "Cash",
+    "note": "Bought groceries for the week"
+  },
+  {
+    "id": 11,
+    "expenseType": 0,
+    "date": "2024-09-15",
+    "amount": 30.00,
+    "category": "Transportation",
+    "account": "Cash",
+    "note": "Taxi fare"
+  },
+  {
+    "id": 12,
+    "expenseType": 1,
+    "date": "2024-09-16",
+    "amount": 1000.00,
+    "category": "Salary",
+    "account": "Bank account",
+    "note": "September Salary"
+  },
+  {
+    "id": 13,
+    "expenseType": 0,
+    "date": "2024-09-17",
+    "amount": 45.00,
+    "category": "Entertainment",
+    "account": "Credit card",
+    "note": "Streaming subscription"
+  },
+  {
+    "id": 14,
+    "expenseType": 0,
+    "date": "2024-09-18",
+    "amount": 65.00,
+    "category": "Utilities",
+    "account": "Debit card",
+    "note": "Internet bill"
+  },
+  {
+    "id": 15,
+    "expenseType": 0,
+    "date": "2024-09-20",
+    "amount": 300.00,
+    "category": "Medical",
+    "account": "Credit card",
+    "note": "Doctor consultation and medicine"
+  },
+  {
+    "id": 16,
+    "expenseType": 1,
+    "date": "2024-09-22",
+    "amount": 600.00,
+    "category": "Freelance",
+    "account": "Bank account",
+    "note": "Payment for graphic design work"
+  },
+  {
+    "id": 17,
+    "expenseType": 0,
+    "date": "2024-09-24",
+    "amount": 80.00,
+    "category": "Dining",
+    "account": "Debit card",
+    "note": "Lunch with friends"
+  },
+  {
+    "id": 18,
+    "expenseType": 1,
+    "date": "2024-09-26",
+    "amount": 150.00,
+    "category": "Bonus",
+    "account": "Bank account",
+    "note": "Project completion bonus"
+  },
+  {
+    "id": 19,
+    "expenseType": 0,
+    "date": "2024-09-27",
+    "amount": 110.00,
+    "category": "Groceries",
+    "account": "Cash",
+    "note": "Bought groceries for the week"
+  },
+  {
+    "id": 20,
+    "expenseType": 0,
+    "date": "2024-09-29",
+    "amount": 25.00,
+    "category": "Transportation",
+    "account": "Cash",
+    "note": "Train fare"
+  }
+]
